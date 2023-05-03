@@ -1,4 +1,3 @@
-# Movie-Recommendation-System-Using-Graph-Neural-Network
 # Movie Recommender System via Graph Neural Network
 ### Deep Learning Final Project - Team: AI Pioneers
 
